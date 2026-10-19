@@ -38,10 +38,10 @@ You can download or clone this repository to run the program on your computer.
 1. Install Git on your computer if it is not already installed.
 2. Open your terminal or command prompt.
 3. Navigate to the folder where you want to save the project.
-4. Run the following command, replacing `sriayushman24` with your GitHub username:
+4. Run the following command, replacing `sriayushman24-prog` with your GitHub username:
 
    ```bash
-   git clone https://github.com/sriayushman24/Mini-Stock-Trading-Simulator.git
+   git clone https://github.com/sriayushman24-prog/Mini-Stock-Trading-Simulator.git
    ```
 
 5. Navigate into the project folder:
